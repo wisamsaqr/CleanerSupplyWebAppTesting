@@ -152,7 +152,6 @@
 	 	-assert header
 	 	
 - Fill Shipping Address and payment method with fake data
-
 	-fill 'Company' name field
 		-assert value is reflected
 		-assert on active design
@@ -303,7 +302,6 @@
 	 	-assert header
 	 	
 - Fill Shipping Address and payment method with fake data
-
 	-fill 'Company' name field
 		-assert value is reflected
 		-assert on active design
@@ -433,7 +431,6 @@ For All products:
 	 	-assert header
 	 	
 - Fill Shipping Address and payment method with fake data
-
 	-fill 'Company' name field
 		-assert value is reflected
 		-assert on active design
@@ -721,10 +718,3 @@ For All products:
 	- verify success message "THANKS FOR YOUR FEEDBACK, WE APPRECIATE IT!"
 
 ### The End...
-
-
-
-
-
-
-
