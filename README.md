@@ -1,6 +1,6 @@
 # Cleaner's Supply Web Application Testing Using Katalon
 
-# Test Plan
+## Test Plan
 
 ### Senario 1
 
